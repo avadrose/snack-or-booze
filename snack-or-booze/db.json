@@ -27,6 +27,13 @@
       "description": "Crisp!",
       "recipe": "Open can.",
       "serve": "Immediately."
+    },
+    {
+      "name": "Milk",
+      "description": "Whole milk",
+      "recipe": "Just milk",
+      "serve": "1",
+      "id": "milk"
     }
   ],
   "snacks": [
@@ -50,6 +57,13 @@
       "description": "Tart and delicious.",
       "recipe": "Mix arugula, toasted walnuts, and thinly-sliced Parmesan cheese. Dress with lemon and olive oil.",
       "serve": "Place on tiny, precious little plates."
+    },
+    {
+      "name": "Cheetohs",
+      "description": "Chips",
+      "recipe": "Crispy cheese potatos",
+      "serve": "1",
+      "id": "cheetohs"
     }
   ]
 }
